@@ -62,7 +62,7 @@ local primary_weapons = {
 	{name='M249', command="buy m249; "},
 	{name='Rifle', command="buy ak47; buy m4a1; "},
 	{name= 'Scoped Rifle', command="buy aug; buy sg556; "},
-	{name='XM1014' command="buy xm1014; "},
+	{name='XM1014', command="buy xm1014; "},
 
 }
 
@@ -71,7 +71,7 @@ local secondary_weapons = {
 	{name='R8 Revolver / Deagle', command="buy deagle; "},
 	{name='Dual Berettas', command="buy elite; "},
 	{name='FN57 / Tec9 / CZ75-Auto', command="buy fn57; "}
-	{name='P250', command= "buy p250; "},
+	{name='P250', command="buy p250; "},
 }
 
 local gear_weapons = {
